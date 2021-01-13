@@ -1,0 +1,37 @@
+.panda-carousel {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.panda-category {
+    border-radius: 10px;
+}
+.panda-category img {
+    width: 75px;
+    height: auto;
+}
+.subscribe {
+    background-color: #FCEAE8;
+}
+.panda-card {
+    border: 0;
+}
+.panda-card-footer {
+    border: 0;
+    background-color: white;
+}
+.panda-color {
+    background-color: #FF428D;
+    border-radius: 10px;
+}
+.panda-text-color {
+    color: #FF428D;
+}
+.category-watch {
+    background-color: #FFA500;
+}
+.category-bag {
+    background-color: #DA70D6;
+}
+.category-shoe {
+    background-color: #0000FF;
+}
